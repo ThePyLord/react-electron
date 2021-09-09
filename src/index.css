@@ -1,0 +1,13 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  margin: auto;
+  max-width: 38rem;
+  background: white;
+  padding: 2rem;
+}
+
+.surprise {
+  top: 50%;
+  text-align: center;
+  color: green;
+}
